@@ -6,7 +6,7 @@ Une télécommande virtuelle pour la box .évasion. Ce projet utilise une API d�
 
 Initialement, l'application est un script Python, donc il sufft d'installer une version de Python (a priori 3.11 ou plus récent) et de lancer le script `remote.py`. L'application n'a été testée que sous Windows.
 
-Une autre option est de télécharger l'exécutable et de le placer dans un dossier d'installation au choix. À la première exécution, le programme va créer un dossier `data` pour stocker les paramètres (dans `config.json`) de l'application. 
+Une autre option est de [télécharger l'exécutable (Télécommande VOO .évasion ([...]).exe)](https://github.com/Vincent-Stragier/voo-tv-gui/releases/tag/latest) et de le placer dans un dossier d'installation au choix. À la première exécution, le programme va créer un dossier `data` pour stocker les paramètres (dans `config.json`) de l'application. 
 
 ## Configuration de la télécommande
 
